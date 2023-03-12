@@ -1,0 +1,3 @@
+Menulis file baru
+selamat kamu berhasil
+Ok saya berhasil membuat file

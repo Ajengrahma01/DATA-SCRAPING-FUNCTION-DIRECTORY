@@ -1,0 +1,10 @@
+fw = open('contoh.txt', "w")
+fw.write("Menulis file baru\n")
+fw.write("selamat kamu berhasil\n")
+fw.write("Ok saya berhasil membuat file")
+fw.close()
+
+fr = open('contoh.txt', "r")
+text =fr.read()
+print(text)
+fr.close()
